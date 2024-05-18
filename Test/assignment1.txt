@@ -1,0 +1,3 @@
+In this tutorial we will talk about Feature Matching with OpenCV. In my example I used the same book cover but in different lighting conditions, position and perspective.
+
+For a normal comparison they could be different but two simple steps we can compare the main characteristics:

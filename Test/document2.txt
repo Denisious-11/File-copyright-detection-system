@@ -1,0 +1,4 @@
+We find the keypoints and descriptors of each spefic algorythm.
+A keypoint is the position where the feature has been detected, while the descriptor is an array containing numbers to describe that feature.
+
+When the descriptors are similar, it means that also the feature is similar. You can see this tutorial to understand more about feature matching.

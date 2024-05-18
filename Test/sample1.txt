@@ -1,0 +1,3 @@
+hai hello hwo are you.
+i am really happy to hear that
+its my pleasure to introduce myself.he architecture of a ConvNet is analogous to that of the connectivity pattern of Neurons in the Human Brain and was inspired by the organization of the Visual Cortex. Individual neurons respond to stimuli only in a restricted region of the visual field known as the Receptive Field. A collection of such fields overlap to cover the entire visual area.
